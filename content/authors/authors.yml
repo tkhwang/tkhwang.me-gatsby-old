@@ -1,17 +1,14 @@
-- name: Dennis Brotzky
+- name: tkhwang
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    Full stack developer (wannabe) 👨🏽‍💻 Typescript, Javascript, React and Data . Looking to join forces with making something new and fun.
+  avatar: ./avatars/profile.jpg
   featured: true
   social:
     - name: github
-      url: https://github.com
+      url: https://github.com/tkhwang
     - name: twitter
-      url: https://github.com
+      url: https://github.com/tkhwang
     - name: instagram
-      url: https://github.com
-    - name: dribbble
-      url: https://github.com
+      url: https://github.com/tkhwang
     - name: linkedin
-      url: https://github.com
+      url: https://github.com/tkhwang
