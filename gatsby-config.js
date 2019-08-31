@@ -5,8 +5,8 @@ module.exports = {
 		siteUrl: `https://tkhwang.me`,
 		description: `My personal learning on-the-fly and on-demand.`,
 		hero: {
-			heading: `learn-on-the-fly.`,
-			maxWidth: 652,
+			heading: `RTFM().then(k => { p = practice(k) })`,
+			maxWidth: 1024,
 		},
 		social: [
 			{
