@@ -1,6 +1,6 @@
 module.exports = {
 	siteMetadata: {
-		title: `tkhwang.me`,
+		title: `rtfm().then(d => { power = practice(d) })`,
 		name: `tkhwang`,
 		siteUrl: `https://tkhwang.me`,
 		description: `My personal learning on-the-fly and on-demand.`,
